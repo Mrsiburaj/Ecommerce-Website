@@ -3,10 +3,10 @@ Bakery product ordered in web system is basically made for providing the custome
 
  Live-Link- https://mummyskitchen.netlify.app/
 
-# 📌 Sneak Peek of Main Page 
+# 📌 Sneak Peek of Main Page 🕵
 ![image](https://github.com/Mrsiburaj/online-bakery-system/assets/109068417/cd77e523-daf7-4260-9444-bf428a4bebab)
 ![image](https://github.com/Mrsiburaj/online-bakery-system/assets/109068417/0f9ad51a-c0ad-4f2a-9fcd-0243a1440b50)
-![image](https://github.com/Mrsiburaj/online-bakery-system/assets/109068417/812fa1a1-1701-4a3c-b4b1-06ba01336c89)
+
 
 
 
